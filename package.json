@@ -1,0 +1,20 @@
+{
+  "name": "bmicalculator",
+  "version": "1.0.0",
+  "description": "This is the BMI calculator we made during the NODE JS bootcamp organized by ShapeAi.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "BMI",
+    "Calculator"
+  ],
+  "author": "Kamal Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security"
+  }
+}
